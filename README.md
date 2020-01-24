@@ -1,7 +1,7 @@
 # ledspiral
 Official Repo of the led spiral project by Tim Fischbach
 
-Big thanks to Andrija Viksanovic for helping me out bringing this project to life!
+Big thanks to Andrija Vuksanovic for helping me out bringing this project to life!
 
 # What's the LED Spiral project?
 The LED Spiral project is a 2 * 2 meters big LED Spiral with ~1000 WS2812B LEDs. The whole spiral is controlled via DMX (control over wifi is following).
