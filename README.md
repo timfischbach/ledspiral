@@ -2,7 +2,7 @@
 
 Official Repo of the led spiral project by Tim Fischbach
 
-Big thanks to Andrija Vuksanovic helping me to bring this big project to life!
+Big thanks to Andrija Vuksanovic! He helped me bringing this big project to life.
 
 # Open the Wiki for the DMX Tables and the full documentation
 
