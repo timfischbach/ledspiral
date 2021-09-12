@@ -10,7 +10,7 @@ Big thanks to Andrija Vuksanovic! He helped me bringing this big project to life
 The LED Spiral project is a 2 * 2 meters big LED Spiral with ~900 WS2812B LEDs. The whole spiral is controlled via DMX.
 
 # Known unfixable Bugs:
-- When you power on the spiral while DMX already connected, there is a chance of the spiral not booting up and just having a whitescreen.
+- When you power on the spiral while DMX is already connected, there is a chance of the spiral not booting up and just having a whitescreen.
   Solution: unplug DMX, power up the spiral and plug DMX back in
 (This bug is caused by the bootloader of the microcontroller in the spiral. That's why it's not fixable)
   
