@@ -7,7 +7,7 @@ Big thanks to Andrija Vuksanovic! He helped me bringing this big project to life
 # Open the Wiki for the DMX Tables and the full documentation
 
 # What's the LED Spiral project?
-The LED Spiral project is a 2 * 2 meters big LED Spiral with ~900 WS2812B LEDs. The whole spiral is controlled via DMX.
+The LED Spiral project is a 2 * 2 meters big LED Spiral with ~900 WS2812B LEDs. The whole spiral is controlled via DMX512.
 
 # Known unfixable Bugs:
 - When you power on the spiral while DMX is already connected, there is a chance of the spiral not booting up and just having a whitescreen.
