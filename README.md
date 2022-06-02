@@ -20,7 +20,7 @@ The LED Spiral consists of 3 segments which got their own 5v power supply to pow
 # How to update?
 Just connect the LED-Spiral with WiFi and it'll download the latest update from the update server.
 
-Getting an error while updating? Check here if the update server is down: https://stats.uptimerobot.com/GzN0XhJ9nQ/786934325
+Getting an error while updating? Check here if the update server is down: [R-Status](https://stats.timfischbach.com/status/r-status)
 
 # Video:
 https://youtu.be/Nkvtru9NiSg
